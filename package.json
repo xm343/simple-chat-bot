@@ -1,0 +1,11 @@
+{
+  "name": "simple-chat-bot",
+  "version": "1.0.0",
+  "homepage": "https://xm343.github.io/simple-chat-bot",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
